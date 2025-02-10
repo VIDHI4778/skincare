@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,14 +8,14 @@
         body {
             font-family: Arial, sans-serif;
             text-align: center;
-            background-color: #fce4ec;
+            background-color: #e0c9a6;
             padding: 50px;
         }
         h1 {
-            color: #d81b60;
+            color: #5a3e2b;
         }
         button {
-            background-color: #d81b60;
+            background-color: #8b5e3b;
             color: white;
             border: none;
             padding: 10px 20px;
@@ -24,12 +24,12 @@
             border-radius: 5px;
         }
         button:hover {
-            background-color: #ad1457;
+            background-color: #6d4b33;
         }
         #result {
             margin-top: 20px;
             font-size: 18px;
-            color: #880e4f;
+            color: #4b2e1a;
         }
     </style>
 </head>
